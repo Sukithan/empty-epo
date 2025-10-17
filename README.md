@@ -1,3 +1,2 @@
-# Project
-
-Initialized by Collaborative Editor
+# New Project
+Welcome to your new project!
